@@ -3,7 +3,6 @@ node_modules/*
 logs/*
 **/nango-data/*
 .idea/*
-.env
 nango-integrations/*
 dist/
 build/
@@ -17,3 +16,4 @@ temp
 .claude/settings.local.json
 CLAUDE.local.md
 .cursor/*.local.mdc
+config.bat
